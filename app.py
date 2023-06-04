@@ -110,16 +110,16 @@ st.markdown("""---""")
 c3, c4 = st.columns(2)
 with c3:
     st.subheader('Get data-driven insights and Learn DeFi analytics')
-    st.markdown("- Learn [how to yield farm with Uniswap V3 LPs](https://twitter.com/coindataschool/status/1658033627035471872).")
-    st.markdown("- Subscribe to my free [newsletter](https://coindataschool.substack.com/about).")
-    st.markdown("- Follow me on twitter: [@coindataschool](https://twitter.com/coindataschool).")
-    st.markdown("- Follow me on github: [@coindataschool](https://github.com/coindataschool).")
+    st.markdown("- Learn [how to yield farm with Uniswap V3 LPs](https://twitter.com/coindataschool/status/1658033627035471872)")
+    st.markdown("- Subscribe to my free [newsletter](https://coindataschool.substack.com/about)")
+    st.markdown("- Follow me on twitter: [@coindataschool](https://twitter.com/coindataschool)")
+    st.markdown("- Follow me on github: [@coindataschool](https://github.com/coindataschool)")
 
 with c4:
     st.subheader("Support my work")
-    st.markdown("- Help pay [computing](https://ko-fi.com/coindataschool/tiers).")
-    st.markdown("- Send me ETH: `0x783c5546c863f65481bd05fd0e3fd5f26724604e`.")
-    st.markdown("- Tip me [sat](https://tippin.me/@coindataschool).")
+    st.markdown("- Help pay [computing](https://ko-fi.com/coindataschool/tiers)")
+    st.markdown("- Send me ETH: `0x783c5546c863f65481bd05fd0e3fd5f26724604e`")
+    st.markdown("- Tip me [sat](https://tippin.me/@coindataschool)")
     
     st.subheader('Referrals')
     st.markdown("- Get [5% discount](https://app.gmx.io/#/trade/?ref=coindataschool) when trading on GMX.")
