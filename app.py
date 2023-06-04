@@ -109,20 +109,19 @@ with st.expander("Conversation", expanded=True):
 st.markdown("""---""")
 c3, c4 = st.columns(2)
 with c3:
-    st.subheader('If you want to master the art of LP')
-    st.markdown("- Get my [Uniswap V3 LP Book](https://twitter.com/coindataschool/status/1658033627035471872)")
+    st.subheader('Get data-driven insights and Learn DeFi analytics')
+    st.markdown("- Learn [how to yield farm with Uniswap V3 LPs](https://twitter.com/coindataschool/status/1658033627035471872).")
+    st.markdown("- Subscribe to my free [newsletter](https://coindataschool.substack.com/about).")
+    st.markdown("- Follow me on twitter: [@coindataschool](https://twitter.com/coindataschool).")
+    st.markdown("- Follow me on github: [@coindataschool](https://github.com/coindataschool).")
 
-    st.subheader('If you want to trade on chain')
+with c4:
+    st.subheader("Support my work")
+    st.markdown("- Help pay [computing](https://ko-fi.com/coindataschool/tiers).")
+    st.markdown("- Send me ETH: `0x783c5546c863f65481bd05fd0e3fd5f26724604e`.")
+    st.markdown("- Tip me [sat](https://tippin.me/@coindataschool).")
+    
+    st.subheader('Referrals')
     st.markdown("- Get [5% discount](https://app.gmx.io/#/trade/?ref=coindataschool) when trading on GMX.")
     st.markdown("- Get [2.5%+ discount](https://app.mux.network/#/ref/coindataschool) when trading on MUX.")
-    st.markdown("- Get [\$1 for every \$10,000 trading volume](https://app.hyperliquid.xyz/join/COINDATASCHOOL) and qualify for [airdrop](https://app.hyperliquid.xyz/join/CDS) when trading on Hyperliquid.")
-with c4:
-    st.subheader('Get data-driven insights and Learn DeFi analytics')
-    st.markdown("- Subscribe to my free [newsletter](https://coindataschool.substack.com/about)")
-    st.markdown("- Follow me on twitter: [@coindataschool](https://twitter.com/coindataschool)")
-    st.markdown("- Follow me on github: [@coindataschool](https://github.com/coindataschool)")
-
-    st.subheader("If you'd like to support my work, you can")
-    st.markdown("- Help pay [computing](https://ko-fi.com/coindataschool/tiers)")    
-    st.markdown("- Send me ETH: `0x783c5546c863f65481bd05fd0e3fd5f26724604e`")
-    st.markdown("- Tip me [sat](https://tippin.me/@coindataschool)")
+    st.markdown("- Get [\$1 for every \$10,000 trading volume](https://app.hyperliquid.xyz/join/COINDATASCHOOL) and qualify for [airdrop](https://app.hyperliquid.xyz/join/CDS) when trading on Hyperliquid.")    
